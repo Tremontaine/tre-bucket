@@ -1,0 +1,15 @@
+{
+    "version":  "2.12",
+    "license":  "Proprietary",
+    "extract_dir":  "8BitDo-Ultimate-Software-for-Windows",
+    "url":  "https://download.8bitdo.com/Ultimate-Software/8BitDo-Ultimate-Software-for-Windows.zip",
+    "homepage":  "https://app.8bitdo.com",
+    "hash":  "32CB86932A4ACEFE1AFD3B04318F0AF38171573FFE2924CCED907F4F4676CB43",
+    "bin":  "8BitDo Ultimate Software.exe",
+    "shortcuts": [
+        [
+            "8BitDo Ultimate Software.exe",
+            "8BitDo Ultimate Software"
+        ]
+    ]
+}
