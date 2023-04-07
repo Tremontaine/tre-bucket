@@ -1,11 +1,11 @@
 {
-    "version": "2.36",
+    "version": "2.37",
     "license": "Proprietary",
     "description": "Firmware upgrade tool for 8BitDo controllers",
     "homepage": "https://www.8bitdo.com",
     "url": "https://download.8bitdo.com/Tools/FirmwareUpdater/8BitDo_Firmware_Updater_Win.zip",
     "extract_dir": "8BitDo_Firmware_Updater_Win",
-    "hash":  "CE011EC386A873EBD3364F91370FEC22CEF5840DB89BFB709CD7BB67CD91487E",
+    "hash":  "6EF191E86FA614EAC3F3C1385A7AB5AAA3091ACCAF78882F9D31F9CDDA4F240B",
     "shortcuts": [
         [
             "8BitDo Firmware Updater.exe",
