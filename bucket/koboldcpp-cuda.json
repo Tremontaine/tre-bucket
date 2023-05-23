@@ -6,7 +6,7 @@
     "notes": "Look Mobel *.bin weights at https://rentry.org/nur779",
     "architecture": {
         "64bit": {
-            "url": "hhttps://github.com/LostRuins/koboldcpp/releases/download/v1.24/koboldcpp_CUDA_only.exe",
+            "url": "https://github.com/LostRuins/koboldcpp/releases/download/v1.24/koboldcpp_CUDA_only.exe",
             "hash": "97DAE329FF496B044172AAA708BBAE2C98F3857D982F46E097E801A9BEFC7C87"
         }
     },
