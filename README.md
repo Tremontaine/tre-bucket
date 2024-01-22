@@ -11,6 +11,7 @@ After manifests have been committed and pushed, run the following:
 
 ```pwsh
 scoop bucket add tre-bucket https://github.com/Tremontaine/tre-bucket
+scoop install Tremontaine/magpie
 ```
 
 ## How do I contribute new manifests?
