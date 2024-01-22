@@ -1,0 +1,15 @@
+{
+    "version": "1.3.4",
+    "license": "MIT License",
+    "description": "A simple standalone viewer for reading prompt from Stable Diffusion generated image outside the webui.",
+    "homepage": "https://github.com/receyuki/stable-diffusion-prompt-reader",
+    "url": "https://github.com/receyuki/stable-diffusion-prompt-reader/releases/download/v1.3.4/SD-Prompt-Reader-1.3.4-Windows-x64.zip",
+    "bin":  "SD Prompt Reader.exe",
+    "hash":  "2DA3207D6B67277A0FD1726C9E3BC7EE3F438C231B23DF6B48F1A654E84ACF56",
+    "shortcuts": [
+        [
+            "SD Prompt Reader.exe",
+            "Stable Diffusion Prompt Reader"
+        ]
+    ]
+}

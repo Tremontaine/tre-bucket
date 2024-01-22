@@ -1,0 +1,20 @@
+{
+  "bin": "Magpie.exe",
+  "description": "Magpie magnifies any window to fullscreen with a handful of algorithms/filter. The main goal is to tackle the situations where the games either do not natively support fullscreen or display blurry images under fullscreen modes(Preview Edition).",
+  "hash": "C5DB93F6E6FD83FCA05DE506ACCD3E7D7AC36214ACA83625AD0E25018169768C",
+  "homepage": "https://github.com/Blinue/Magpie",
+  "license": {
+    "identifier": "GPL-3.0-or-later",
+    "url": "https://github.com/Blinue/Magpie/raw/main/LICENSE"
+  },
+  "notes": "Readme: <https://github.com/Blinue/Magpie/blob/main/README_EN.md#hints>",
+  "shortcuts": [
+    [
+      "Magpie.exe",
+      "Magpie"
+    ]
+  ],
+  "persist": "config",
+  "url": "https://github.com/Blinue/Magpie/releases/download/v0.10.4/Magpie-v0.10.4-x64.zip",
+  "version": "0.10.4"
+}
