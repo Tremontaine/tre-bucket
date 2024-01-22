@@ -10,7 +10,7 @@ A personal Scoop.sh bucket for apps for apps I couldn't find in known buckets.
 After manifests have been committed and pushed, run the following:
 
 ```pwsh
-scoop bucket add tre-bucket [https://github.com/Tremontaine/tre-bucket>](https://github.com/Tremontaine/tre-bucket)
+scoop bucket add tre-bucket https://github.com/Tremontaine/tre-bucket
 ```
 
 ## How do I contribute new manifests?
