@@ -1,7 +1,7 @@
 # tre-bucket
 
 <!-- Uncomment the following line after replacing placeholders -->
-[![Tests](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml) [![Excavator](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml)
+[![Tests](https://github.com/Tremontaine/tre-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/Tremontaine/tre-bucket/actions/workflows/ci.yml) [![Excavator](https://github.com/Tremontaine/tre-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/Tremontaine/tre-bucket/actions/workflows/excavator.yml)
 
 A personal Scoop.sh bucket for apps for apps I couldn't find in known buckets.
 
@@ -10,7 +10,7 @@ A personal Scoop.sh bucket for apps for apps I couldn't find in known buckets.
 After manifests have been committed and pushed, run the following:
 
 ```pwsh
-scoop bucket add tre-bucket [https://github.com/<username>/<bucketname>](https://github.com/Tremontaine/tre-bucket)
+scoop bucket add tre-bucket [https://github.com/Tremontaine/tre-bucket>](https://github.com/Tremontaine/tre-bucket)
 ```
 
 ## How do I contribute new manifests?
