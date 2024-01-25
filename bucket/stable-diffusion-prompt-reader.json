@@ -1,5 +1,5 @@
 {
-    "version": "1.3.4-post.2",
+    "version": "1.3.4.2",
     "license": "MIT License",
     "description": "A simple standalone viewer for reading prompt from Stable Diffusion generated image outside the webui.",
     "homepage": "https://github.com/receyuki/stable-diffusion-prompt-reader",
