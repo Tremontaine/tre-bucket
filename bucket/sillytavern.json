@@ -11,9 +11,6 @@
     "url": "https://github.com/SillyTavern/SillyTavern/archive/refs/tags/1.11.2.zip",
     "hash": "3afbe1bb65e7a8a11685bf641dc96cbc9b67a4245ed3957eb980ea235d40f7eb",
     "extract_dir": "SillyTavern-1.11.2",
-    "installer": [
-        "cmd.exe /c Start.bat"
-	],
     "bin": "Start.bat",
     "shortcuts": [
         [
