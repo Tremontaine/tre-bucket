@@ -7,9 +7,7 @@
         "identifier": "AGPL-3.0",
         "url": "https://github.com/SillyTavern/SillyTavern?tab=AGPL-3.0-1-ov-file#readme"
     },
-    "depends": {
-        "Node.js": "main/nodejs"
-    },
+    "depends": "nodejs",
     "url": "https://github.com/SillyTavern/SillyTavern/archive/refs/tags/$version.zip",
     "hash": "3afbe1bb65e7a8a11685bf641dc96cbc9b67a4245ed3957eb980ea235d40f7eb",
     "extract_dir": "SillyTavern-$version",
