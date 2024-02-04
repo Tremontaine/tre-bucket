@@ -1,0 +1,27 @@
+{
+    "version": "1.11.2",
+    "checkver": "github",
+    "description": "SillyTavern is a user interface you can install on your computer (and Android phones) that allows you to interact with text generation AIs and chat/roleplay with characters you or the community create.",
+    "homepage": "https://sillytavern.app/",
+    "license": {
+        "identifier": "AGPL-3.0",
+        "url": "https://github.com/SillyTavern/SillyTavern?tab=AGPL-3.0-1-ov-file#readme"
+    },
+    "depends": {
+        "Node.js": "main/nodejs"
+    },
+    "url": "https://github.com/SillyTavern/SillyTavern/archive/refs/tags/$version.zip",
+    "hash": "3afbe1bb65e7a8a11685bf641dc96cbc9b67a4245ed3957eb980ea235d40f7eb",
+    "extract_dir": "SillyTavern-$version",
+    "installer": [
+        "cmd.exe /c Start.bat"
+	],
+    "bin": "Start.bat",
+    "shortcuts": [
+        [
+            "Start.bat",
+            "Silly Tavern"
+        ]
+    ],
+    "persist": "public"
+}
