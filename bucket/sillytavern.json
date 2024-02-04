@@ -16,6 +16,7 @@
         [
             "Start.bat",
             "Silly Tavern"
+            "public\st-launcher.ico"
         ]
     ],
     "persist": "public"
