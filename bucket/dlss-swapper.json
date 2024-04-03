@@ -1,9 +1,9 @@
 {
   "license": "GPL-3.0",
-  "url": "https://github.com/beeradmoore/dlss-swapper/releases/download/v1.0.4.0/DLSS.Swapper-1.0.4.0-portable.zip",
+  "url": "https://github.com/beeradmoore/dlss-swapper/releases/download/v1.0.5.0/DLSS.Swapper-1.0.5.0-portable.zip",
   "bin": "DLSS Swapper.exe",
-  "version": "v1.0.4.0",
-  "hash": "C232BDE8DB2E2C9AA77F9B4F2BEDA9D71F0DB0C7ECF228526902BBEBF301032B",
+  "version": "v1.0.5.0",
+  "hash": "ed8c74fb876681d9b40cd8de65d354d0313b974e01a5105589eefaaa10447754",
   "homepage": "https://github.com/beeradmoore/dlss-swapper",
   "shortcuts": [
         [
