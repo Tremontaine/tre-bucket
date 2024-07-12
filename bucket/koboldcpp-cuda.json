@@ -11,7 +11,7 @@
         }
     },
     "bin": [
-        ["koboldcpp_cu12.exe", "koboldcpp.exe"]
+        ["koboldcpp_cu12.exe", "koboldcpp"]
     ],
     "checkver": "github",
     "autoupdate": {
