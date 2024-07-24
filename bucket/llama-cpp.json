@@ -1,5 +1,5 @@
 {
-    "version": "3452",
+    "version": "b3452",
     "description": "LLaMA C++ implementation for Windows with CUDA support",
     "homepage": "https://github.com/ggerganov/llama.cpp",
     "license": "MIT",
