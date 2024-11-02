@@ -4,7 +4,7 @@
     "homepage": "https://www.wiresock.net/",
     "url": "https://github.com/wiresock/WireSockUI/releases/download/v0.2.8/WireSockUI-v0.2.8-AnyCPU.zip",
     "hash": "43d0cddb69c44ff06373f03e57c2ce9a250dacc3db640cb23f04783064d82938",
-    "bin": [
+    "shortcuts": [
         [
             "WireSockUI.exe",
             "WireSockUI"
