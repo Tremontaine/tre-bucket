@@ -1,11 +1,11 @@
 {
-    "version": "2.7.4",
+    "version": "3.4.0",
     "description": "Steam depot downloader utilizing the SteamKit2 library. Supports .NET 6.0",
     "homepage": "https://github.com/SteamRE/DepotDownloader",
     "license": "GPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/SteamRE/DepotDownloader/releases/download/DepotDownloader_2.7.4/DepotDownloader-windows-x64.zip",
+            "url": "https://github.com/SteamRE/DepotDownloader/releases/download/DepotDownloader_3.4.0/DepotDownloader-windows-x64.zip",
         }
     },
     "bin": "DepotDownloader.exe",
@@ -18,3 +18,4 @@
         }
     }
 }
+
