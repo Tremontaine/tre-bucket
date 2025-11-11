@@ -1,5 +1,5 @@
 {
-    "version": "2.48",
+    "version": "2.52",
     "license": "Proprietary",
     "description": "Firmware upgrade tool for 8BitDo controllers",
     "homepage": "https://www.8bitdo.com",
@@ -12,3 +12,4 @@
         ]
     ]
 }
+
